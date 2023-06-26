@@ -7,11 +7,11 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/lasthyphen/dijetsnodego/database/manager"
-	"github.com/lasthyphen/dijetsnodego/ids"
-	"github.com/lasthyphen/dijetsnodego/snow"
-	"github.com/lasthyphen/dijetsnodego/snow/engine/common"
-	"github.com/lasthyphen/dijetsnodego/version"
+	"github.com/lasthyphen/dijetalgo/database/manager"
+	"github.com/lasthyphen/dijetalgo/ids"
+	"github.com/lasthyphen/dijetalgo/snow"
+	"github.com/lasthyphen/dijetalgo/snow/engine/common"
+	"github.com/lasthyphen/dijetalgo/version"
 )
 
 var blockchainID = ids.ID{1, 2, 3}

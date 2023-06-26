@@ -4,8 +4,8 @@
 package eventtokenizervm
 
 import (
-	"github.com/lasthyphen/dijetsnodego/snow"
-	"github.com/lasthyphen/dijetsnodego/vms"
+	"github.com/lasthyphen/dijetalgo/snow"
+	"github.com/lasthyphen/dijetalgo/vms"
 )
 
 var _ vms.Factory = &Factory{}

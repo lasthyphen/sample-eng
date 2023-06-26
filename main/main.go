@@ -10,7 +10,7 @@ import (
 	"github.com/hashicorp/go-plugin"
 	log "github.com/inconshreveable/log15"
 
-	"github.com/lasthyphen/dijetsnodego/vms/rpcchainvm"
+	"github.com/lasthyphen/dijetalgo/vms/rpcchainvm"
 	"github.com/lasthyphen/sample-eng/vm"
 )
 

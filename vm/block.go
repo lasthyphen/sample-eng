@@ -11,9 +11,9 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/lasthyphen/dijetsnodego/ids"
-	"github.com/lasthyphen/dijetsnodego/snow/consensus/snowman"
-	"github.com/lasthyphen/dijetsnodego/vms/components/core"
+	"github.com/lasthyphen/dijetalgo/ids"
+	"github.com/lasthyphen/dijetalgo/snow/consensus/snowman"
+	"github.com/lasthyphen/dijetalgo/vms/components/core"
 
 	log "github.com/inconshreveable/log15"
 )

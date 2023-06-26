@@ -5,12 +5,12 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/lasthyphen/dijetsnodego/api"
-	"github.com/lasthyphen/dijetsnodego/ids"
-	"github.com/lasthyphen/dijetsnodego/utils/constants"
-	"github.com/lasthyphen/dijetsnodego/utils/timer"
-	"github.com/lasthyphen/dijetsnodego/vms/avm"
-	"github.com/lasthyphen/dijetsnodego/vms/platformvm"
+	"github.com/lasthyphen/dijetalgo/api"
+	"github.com/lasthyphen/dijetalgo/ids"
+	"github.com/lasthyphen/dijetalgo/utils/constants"
+	"github.com/lasthyphen/dijetalgo/utils/timer"
+	"github.com/lasthyphen/dijetalgo/vms/avm"
+	"github.com/lasthyphen/dijetalgo/vms/platformvm"
 
 	log "github.com/inconshreveable/log15"
 )

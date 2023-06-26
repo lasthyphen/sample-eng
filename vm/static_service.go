@@ -9,8 +9,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/lasthyphen/dijetsnodego/utils/formatting"
-	//"github.com/lasthyphen/dijetsnodego/vms/platformvm"
+	"github.com/lasthyphen/dijetalgo/utils/formatting"
+	//"github.com/lasthyphen/dijetalgo/vms/platformvm"
 )
 
 // StaticService defines the base service for the eventtokenizer vm
